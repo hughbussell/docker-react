@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e2cf2b6-34a6-4ff6-847f-c16f528f956a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +47,9 @@
       <screen x="62" y="-1200" width="1858" height="1200" />
     </state>
     <state x="392" y="-998" key="SettingsEditor/72.0.1296.912/62.-1200.1858.1200@62.-1200.1858.1200" timestamp="1602375580681" />
-    <state x="386" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1602911825240">
+    <state x="386" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1602965039059">
       <screen x="72" y="0" width="1296" height="912" />
     </state>
-    <state x="386" y="267" key="com.intellij.ide.util.TipDialog/72.0.1296.912/62.-1200.1858.1200@72.0.1296.912" timestamp="1602911825240" />
+    <state x="386" y="267" key="com.intellij.ide.util.TipDialog/72.0.1296.912/62.-1200.1858.1200@72.0.1296.912" timestamp="1602965039059" />
   </component>
 </project>
